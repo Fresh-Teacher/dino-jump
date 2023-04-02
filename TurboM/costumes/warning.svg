@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="496.5" height="54.5" viewBox="1 -0.9561999440193176 496.5 54.5">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="0"/>
+    </linearGradient>
+  <linearGradient id="grad_1-1,0,0,1.287500023841858,593.5,-185.5" x2="201.5" x1="496" y1="0.5438" y2="0.5438" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="0"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.5225904216058552" fill="url(#grad_1-1,0,0,1.287500023841858,593.5,-185.5)" stroke="none" d="M 496 0.5438 L 201.5 0.5438 L 201.5 52.0438 L 496 52.0438 L 496 0.5438 Z " stroke-width="1.1527480885676593"/>
+  <text id="ID0.9804584723897278" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 2.5 2.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">TURBO MODE ENABLED</tspan></text>
+  <text id="ID0.19040316063910723" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.749002 0 0 0.749002 4.248 24.153)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Disable turbo mode to continue.</tspan></text>
+  <g id="ID0.6021577133797109">
+    <path id="ID0.8125030007213354" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" d="M 466.75 43 L 429.75 43 L 448.75 9.25 L 466.75 43 Z "/>
+    <text id="ID0.010555010288953781" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 444.5 12.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">!</tspan></text>
+  </g>
+</svg>
